@@ -1,4 +1,3 @@
-
 # Marc van den Berg
 ## curriculum vitae
 
