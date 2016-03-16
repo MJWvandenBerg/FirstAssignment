@@ -99,3 +99,4 @@ My name is Marc and I would describe myself as **social, flexible and eager to l
 
 ### Numerical Simulation Assignments
 [Assignment 2A](http://mjwvandenberg.github.io/SecondAssignment "Assignment 2 Part A")
+[Assignment 2B](http://mjwvandenberg.github.io/Assignment2B/main.html "Assignment 2 Part B")
