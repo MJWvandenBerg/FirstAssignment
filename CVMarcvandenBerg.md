@@ -96,3 +96,6 @@ My name is Marc and I would describe myself as **social, flexible and eager to l
 
 * Mail-a-student Tilburg University
 * Editor in chief on a diverse array of gaming-related websites
+
+### Numerical Simulation Assignments
+[Assignment 2A](http://mjwvandenberg.github.io/SecondAssignment "Assignment 2 Part A")
